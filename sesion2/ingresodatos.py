@@ -1,0 +1,10 @@
+nombre=input("ingrese su nombre: ")
+apellido=input("ingrese su apellido: ")
+edad=input("ingrese su edad: ")
+peso=input("ingrese su peso: ")
+#imprimir los valores
+print(10*"_")
+print("nombre:",nombre)
+print("apellido:",apellido)
+print("edad:",edad)
+print("peso:",peso) 
